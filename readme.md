@@ -1,2 +1,2 @@
 # WebNav
-My first ever website. Built mostly in HTML & CSS with some JavaScript. Originally hosted on EC2 with Apache and Let's Encrypt; now on Github Pages. Links users to popular webpages
+Basic website to link to popular websites, kind of like a 'favorites' page in a browser. Built with HTML and CSS with a splash of JavaScript (to show the date/time). Originally deployed on AWS EC2 with Apache and Let's Encrypt configured. Now on GitHub Pages
