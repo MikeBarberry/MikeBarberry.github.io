@@ -1,2 +1,2 @@
 # WebNav
-Basic website to link to popular websites, kind of like a 'favorites' page in a browser. Built with HTML and CSS with a splash of JavaScript (to show the date/time). Originally deployed on AWS EC2 with Apache and Let's Encrypt configured. Now on GitHub Pages
+Built with HTML, CSS and JS and deployed on GitHub Pages with a custom domain Route 53 domain; originally hosted on AWS EC2 with Apache web server and Let's Encrypt. 
